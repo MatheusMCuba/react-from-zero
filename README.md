@@ -1,62 +1,63 @@
-# React From Zero
+# React do Zero
 
-A simple (99% ES2015 less) tutorial for React
+Simples tutorial para React
+Todos os códigos rodam direto no browser sem precisar de manualmente compila-los.
 
-Everything runs in the browser without a manual pre-compilation.
-
-## Translations
+## Traduções
 
 - [![china](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **中文/Chinese**](https://github.com/chinanf-boy/react-from-zero)
 
-## Lessons
+- [![usa](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-States.png) **English**](https://github.com/chinanf-boy/react-from-zero)
 
-[Lesson 0 - Object Elements](https://github.com/kay-is/react-from-zero/blob/master/00-object-elements.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/00-object-elements.html)
+## Módulos
 
-[Lesson 1 - Element Factory](https://github.com/kay-is/react-from-zero/blob/master/01-element-factory.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/01-element-factory.html)
+[Módulo 0 - Objetos de Elementos](https://github.com/kay-is/react-from-zero/blob/master/00-object-elements.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/00-object-elements.html)
 
-[Lesson 2 - JSX](https://github.com/kay-is/react-from-zero/blob/master/02-jsx.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/02-jsx.html)
+[Módulo 1 - Factory de Elementos](https://github.com/kay-is/react-from-zero/blob/master/01-element-factory.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/01-element-factory.html)
 
-[Lesson 3 - Nested Elements](https://github.com/kay-is/react-from-zero/blob/master/03-nested-elements.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/03-nested-elements.html)
+[Módulo 2 - JSX](https://github.com/kay-is/react-from-zero/blob/master/02-jsx.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/02-jsx.html)
 
-[Lesson 4 - Components](https://github.com/kay-is/react-from-zero/blob/master/04-components.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/04-components.html)
+[Módulo 3 - Elementos Filhos](https://github.com/kay-is/react-from-zero/blob/master/03-nested-elements.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/03-nested-elements.html)
 
-[Lesson 5 - Properties](https://github.com/kay-is/react-from-zero/blob/master/05-properties.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/62dc2789/05-properties.html)
+[Módulo 4 - Componentes](https://github.com/kay-is/react-from-zero/blob/master/04-components.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/04-components.html)
 
-[Lesson 6 - Property Types](https://github.com/kay-is/react-from-zero/blob/master/06-property-types.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/06-property-types.html)
+[Módulo 5 - Propriedades](https://github.com/kay-is/react-from-zero/blob/master/05-properties.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/62dc2789/05-properties.html)
 
-[Lesson 7 - Property Example](https://github.com/kay-is/react-from-zero/blob/master/07-property-example.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/07-property-example.html)
+[Módulo 6 - Tipos de Propriedades](https://github.com/kay-is/react-from-zero/blob/master/06-property-types.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/06-property-types.html)
 
-[Lesson 8 - Nested Components](https://github.com/kay-is/react-from-zero/blob/master/08-nested-components.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/08-nested-components.html)
+[Módulo 7 - Exemplo de Propriedade](https://github.com/kay-is/react-from-zero/blob/master/07-property-example.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/07-property-example.html)
 
-[Lesson 9 - Component Classes](https://github.com/kay-is/react-from-zero/blob/master/09-component-classes.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/09-component-classes.html)
+[Módulo 8 - Componentes Fihos](https://github.com/kay-is/react-from-zero/blob/master/08-nested-components.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/08-nested-components.html)
 
-[Lesson 10 - Example App](https://github.com/kay-is/react-from-zero/blob/master/10-example-app.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/10-example-app.html)
+[Módulo 9 - Classes de Componentes](https://github.com/kay-is/react-from-zero/blob/master/09-component-classes.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/09-component-classes.html)
 
-[Lesson 11 - Lifecycle Methods](https://github.com/kay-is/react-from-zero/blob/master/11-lifecycle-methods.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/11-lifecycle-methods.html)
+[Módulo 10 - App de Exemplo](https://github.com/kay-is/react-from-zero/blob/master/10-example-app.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/10-example-app.html)
 
-[Lesson 12 - Component refactor](https://github.com/kay-is/react-from-zero/blob/master/12-component-refactor.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/12-component-refactor.html)
+[Módulo 11 - Métodos com Ciclo de Vida](https://github.com/kay-is/react-from-zero/blob/master/11-lifecycle-methods.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/11-lifecycle-methods.html)
 
-[Lesson 13 - Element Refactor](https://github.com/kay-is/react-from-zero/blob/master/13-element-refactor.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/13-element-refactor.html)
+[Módulo 12 - Component refactor](https://github.com/kay-is/react-from-zero/blob/master/12-component-refactor.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/12-component-refactor.html)
 
-[Lesson 14 - References](https://github.com/kay-is/react-from-zero/blob/master/14-references.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/14-references.html)
+[Módulo 13 - Element Refactor](https://github.com/kay-is/react-from-zero/blob/master/13-element-refactor.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/13-element-refactor.html)
 
-[Lesson 15 - Simple Integration](https://github.com/kay-is/react-from-zero/blob/master/15-simple-integration.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/15-simple-integration.html)
+[Módulo 14 - Referências](https://github.com/kay-is/react-from-zero/blob/master/14-references.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/14-references.html)
 
-[Lesson 16 - Advanced Integration](https://github.com/kay-is/react-from-zero/blob/master/16-advanced-integration.html) -
-[Preview](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/16-advanced-integration.html)
+[Módulo 15 - Integração Simples](https://github.com/kay-is/react-from-zero/blob/master/15-simple-integration.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/15-simple-integration.html)
+
+[Módulo 16 - Integração Avançada](https://github.com/kay-is/react-from-zero/blob/master/16-advanced-integration.html) -
+[Prévia](https://cdn.rawgit.com/kay-is/react-from-zero/b31878c2/16-advanced-integration.html)
